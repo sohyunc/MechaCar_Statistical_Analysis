@@ -16,4 +16,4 @@ Lot Summary table
 
 ## T-Tests on Suspension Coils
 
-### ![T-Tests](images/t_tests.png)
+### ![T-Tests](images/t_test.png)
